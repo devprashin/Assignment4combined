@@ -1,0 +1,4 @@
+D:\c#\RAWDATA_E2018_Assignment4TestSuitePartII-master\Assignment4.Tests\obj\Debug\netcoreapp2.0\Assignment4.Tests.csprojAssemblyReference.cache
+D:\c#\RAWDATA_E2018_Assignment4TestSuitePartII-master\Assignment4.Tests\obj\Debug\netcoreapp2.0\Assignment4.Tests.csproj.CoreCompileInputs.cache
+D:\c#\RAWDATA_E2018_Assignment4TestSuitePartII-master\Assignment4.Tests\obj\Debug\netcoreapp2.0\Assignment4.Tests.AssemblyInfoInputs.cache
+D:\c#\RAWDATA_E2018_Assignment4TestSuitePartII-master\Assignment4.Tests\obj\Debug\netcoreapp2.0\Assignment4.Tests.AssemblyInfo.cs
